@@ -1,4 +1,3 @@
-- I’m interested in C++, Rust, Python, Deep learning...
 - How to reach me: kirillpanovitsyn@gmail.com
 
 <!---
